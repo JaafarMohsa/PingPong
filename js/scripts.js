@@ -7,7 +7,7 @@ var numbers= function(conditionals){
       $("ul#output").append("<li class='remove'>ping</li>");
     }else if(i% 5===0){
       $("ul#output").append("<li class='remove'>pong</li>");
-    }else($("ul#output").append("<li class='remove'>"+(i)+"</li>"))
+    }else($("ul#output").append("<li class='remove'>"+i.toString();+"</li>"))
   }
 }
 //user interface
@@ -15,7 +15,15 @@ $(document).ready(function(){
   $("form#pingpong").submit(function(event){
     event.preventDefault();
     $("li.remove").remove();
-    var input=parseInt($("input#pong").val())
+    var input=parseInt($("input#ping").val())
     numbers(input)
   })
 })
+
+$(document).ready(function(){
+  $("#about").click(function() {
+    $("#panel").toggle();
+
+
+  });
+});

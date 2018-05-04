@@ -1,0 +1,72 @@
+
+.parallax {
+      /* The image used */
+      background-image: url(../img/Pic1.jpg);
+
+      /* Set a specific height */
+      height: 100000px;
+
+      /* Create the parallax scrolling effect */
+      background-attachment: fixed;
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: center;
+}
+.jumbotron{
+  opacity: 0.5;
+}
+#Info{
+  padding: inherit;
+  float:center;
+  background-color: white;
+}
+#info{
+  background-color: white;
+}
+
+element.style {
+}
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: black;
+    background-color: #fff;
+}
+body {
+    margin: 0;
+}
+
+element.style {
+}
+.jumbotron h1 {
+    animation: bounce 1.2s;
+    font-family: 'Monoton', cursive;
+    letter-spacing: 2px;
+    font-size: 8vw;
+    color: #E1736A;
+}
+
+
+
+#output{
+    text-align: center;
+    background-color: #E1736A;
+    font-family: 'Monoton', cursive;
+    letter-spacing: 4px;
+    font-size: 7vw;
+}
+#panel {
+        display: none;
+      }
+footer{
+font-style: italic;
+font-family: cursive;
+font-size: 20px;
+color: silver;
+text-align: center;
+
+}
+ul {
+list-style-type: none;
+}
