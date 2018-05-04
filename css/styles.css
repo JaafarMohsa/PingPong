@@ -1,179 +1,72 @@
-#Logoinfo {
-  text-align: center;
-  background-image: url(../img/backgrounds/landing.jpg);
-color:white;
-font-style: italic;
-}
-#First{
-  padding: 0;
-  margin: 0;
-}
-.happyhour{
-  background-color: white;
-  height: 50%;
-  text-align: center;
-  padding-top: 40px;
-  padding-bottom:40px;
-  font-style: italic;
-  padding-right: 0px;
 
-}
-.partytime{
-  background-color: #F15A29;
-  height: 50%;
-  text-align: center;
-  padding-top: 40px;
-  padding-bottom:40px;
-  font-style: italic;
-  padding-right:0px;
-  width: 100%
+.parallax {
+      /* The image used */
+      background-image: url(../img/Pic1.jpg);
 
+      /* Set a specific height */
+      height: 100000px;
 
+      /* Create the parallax scrolling effect */
+      background-attachment: fixed;
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: center;
 }
-#Breakfast{
-  height: 100%;
-  background-image: url(../img/foodtop/breakfast.jpg);
-  text-align: center;
-  padding-top: 100px;
-  padding-bottom:100px;
-  font-size:25px;
-  color: white;
-font-style: italic;
-background-repeat: no-repeat;
-
-}
-#Lunch{
-  height: 100%;
-  background-image: url(../img/foodtop/lunch.jpg);
-  text-align: center;
-  padding-top: 100px;
-  padding-bottom:100px;
-  font-size:25px;
-  color: white;
-font-style: italic;
-background-repeat: no-repeat;
-}
-#Dinner{
-  height: 100%;
-   background-image: url(../img/foodtop/dinner.jpg);
-   text-align: center;
-   padding-top: 100px;
-   padding-bottom:100px;
-   font-size:25px;
-   color: white;
- font-style: italic;
- background-repeat: no-repeat;
-
-}
-button{
-  border-width: thin;
-  border-color: #F15A29;
-  border-style:solid;
-  background-color: white;
-}
-#Drinks{
-  text-align: right;
-}
-.slide p {
-  text-align: center;
-  color:  #F15A29;
-}
-.Jaafar{
-background-image: url(../img/backgrounds/foodsBg.jpg);
-padding-left: 150px;
-padding-right: 150px;
-padding-top: 50px;
-padding-bottom: 50px;
-}
-
-#Custom{
-  padding-left: 200px;
-  padding-right: 200px;
-  padding-top: 200px;
-  padding-bottom: 200px;
-  border: 2px;
-  text-align: center;
-}
-#Subscribe{
-  text-align: center;
-  background-image: url(../img/backgrounds/subscribe.jpg);
-  /* padding-left:10 px;
-  padding-right: 10px; */
-  padding-top: 100px;
-  padding-bottom: 100px;
-  background-size: cover;
-  margin: 0px;
-
-  background-repeat: no-repeat;
-}
-#Pngs{
-  text-align: center;
-}
-#menu{
-  text-align: center;
-  background-color: #F15A29;
-  font-size: 5px;
-  color: white;
-  font-style:oblique;
-  /* padding-right: 50px; */
-
-}
-#About{
-  color:#F15A29;
-}
-#happy{
-  color:#F15A29;
-}
-#George{
-  font-weight: bold;
-  font-style: italic;
-
-}
-.Subs{
-  color:white;
-}
-.glyphicon{
-  text-align: justify;
-  color: white;
-  float: left;
-}
-.btn{
-  float: left;
-}
-.View {
- border-style: solid;
- border-color: #F15A29;
- border-width: thin;
- color: #F15A29;
- background-color: rgb(255, 255, 255);
-}
-.slide{
-  color:  #F15A29;
-}
-#View2{
-  float:right;
-}
-#View1{
-  float:left;
-}
-.OITNB{
-  color: white;
-  background-color: #F15A29;
-  height:25px;
-  width:100px;
-}
-.email{
+.jumbotron{
   opacity: 0.5;
-  background-color: grey;
-  color: white;
-  outline: none;
-  border:none;
-  height:25px;
-  width:200px;
 }
-.customer{
-  color:#F15A29;
+#Info{
+  padding: inherit;
+  float:center;
+  background-color: white;
 }
-#thelist li{
-  display: inline;
+#info{
+  background-color: white;
+}
+
+element.style {
+}
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: black;
+    background-color: #fff;
+}
+body {
+    margin: 0;
+}
+
+element.style {
+}
+.jumbotron h1 {
+    animation: bounce 1.2s;
+    font-family: 'Monoton', cursive;
+    letter-spacing: 2px;
+    font-size: 8vw;
+    color: #E1736A;
+}
+
+
+
+#output{
+    text-align: center;
+    background-color: #E1736A;
+    font-family: 'Monoton', cursive;
+    letter-spacing: 4px;
+    font-size: 7vw;
+}
+#panel {
+        display: none;
+      }
+footer{
+font-style: italic;
+font-family: cursive;
+font-size: 20px;
+color: silver;
+text-align: center;
+
+}
+ul {
+list-style-type: none;
 }
