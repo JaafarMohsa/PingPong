@@ -1,16 +1,19 @@
 # Ping-Pong
-a simple math that follows the factors of divisibility.
+This is a game simply designed to play around with divisibility test of 3,5,and 15.
 ## Author
 Jaafar Mohammed
 ## Languages used
 JavaScript
 HTML
 CSS
-#Link
+#Installation
+The site is directly accessible via the site's github pages.
 This is the link to the website
- https://JaafarMohsa.github.io/Ping-Pong/
+https://jaafarmohsa.github.io/PingPong/
 # Licences
 MIT License
+#Acknowledgement
+Moringa School
 
 Copyright (c) [2018] [Ping-pong]
 
@@ -19,4 +22,3 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
