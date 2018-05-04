@@ -7,7 +7,7 @@ var numbers= function(conditionals){
       $("ul#output").append("<li class='remove'>ping</li>");
     }else if(i% 5===0){
       $("ul#output").append("<li class='remove'>pong</li>");
-    }else($("ul#output").append("<li class='remove'>"+i+"</li>"))
+    }else($("ul#output").append("<li class='remove'>")+i+("</li>"))
   }
 }
 //user interface
